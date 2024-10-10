@@ -412,7 +412,7 @@ body {
     50% {
         font-weight: 300;
         color: #1bc7fb;
-        filter: blur(2px);
+        filter: blur(2.25px);
     }
 
     60% {
